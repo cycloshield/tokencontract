@@ -1,3 +1,3 @@
-# token contract for the CYS (CycloShieldCoin) utility token for CycloShield Nano
+# token contract for the CycloShieldCoin ( CYS )  utility token for CycloShield Nano
 
-Created by FundYourselfNow.com, ERC20 implementation
+Created by Kenneth Tan of Fundyourselfnow.com, ERC20 compatible implementation
